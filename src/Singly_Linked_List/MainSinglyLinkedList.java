@@ -1,6 +1,6 @@
 package Singly_Linked_List;
 
-public class Main {
+public class MainSinglyLinkedList {
     public static void main(String[] args) {
         SinglyLinkedList list = new SinglyLinkedList();
         list.createSinglyLinkedList(5);
